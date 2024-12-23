@@ -25,7 +25,7 @@ const programs = [
 
 export const ProgramSection = () => {
   return (
-    <section className="py-20 px-4 bg-zinc-700">
+    <section id="program" className="py-20 px-4 bg-zinc-700">
       <div className="max-w-6xl mx-auto">
         <div className=" mb-16 lg:grid grid-cols-2">
           <div className="text-4xl font-bold text-white mb-4 ">

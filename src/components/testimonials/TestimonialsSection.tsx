@@ -35,7 +35,7 @@ export const TestimonialsSection = () => {
   };
 
   return (
-    <section className="py-20 px-4 bg-zinc-800">
+    <section id="testimonials" className="py-20 px-4 bg-zinc-800">
       <div className="max-w-6xl mx-auto xl:flex ">
         <div className="p-2">
         <h2 className="text-4xl font-bold text-white ">

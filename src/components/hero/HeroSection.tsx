@@ -1,13 +1,9 @@
 import { Play } from "lucide-react";
-import NavBar from "../navbar/NavBar";
 
 export const HeroSection = () => {
   return (
     <div className="relative bg-zinc-800 min-h-screen p-2">
       <div className="max-w-6xl mx-auto">
-        <nav className="sticky top">
-        <NavBar />
-        </nav>
         <div className="flex md:hidden">
             <img
               src="fitness.png"

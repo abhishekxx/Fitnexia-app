@@ -3,8 +3,8 @@ import React from 'react'
 
 const NavBar = () => {
   return (
-    <div className=' text-white items-center p-3 '>
-        <div className=' flex justify-between '>
+    <div className='sticky top-0 z-50 bg-zinc-800 text-white items-center p-3 '>
+        <div className='max-w-6xl mx-auto flex justify-between '>
             <div className=' text-2xl flex gap-3'>
                 <Dumbbell className='text-red-500 h-6 w-6'/>FITNESXIA
             </div>

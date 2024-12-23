@@ -40,7 +40,7 @@ export const PricingSection = () => {
     }
   ];
   return (
-    <section className="py-20 px-4 bg-zinc-800">
+    <section id="membership" className="py-20 px-4 bg-zinc-800">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-4xl font-bold text-center text-white mb-4">
           Choose The Best Plan

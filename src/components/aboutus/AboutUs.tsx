@@ -4,7 +4,7 @@ import TrustedBy from './TrustedBy'
 
 const AboutUs = () => {
   return (
-    <div className="bg-zinc-700">
+    <div id="aboutus" className="bg-zinc-700">
     <div className="max-w-6xl mx-auto">
         <TrustedBy />
         <div className="flex flex-col md:flex-row items-center justify-between gap-16 py-16 px-4">
